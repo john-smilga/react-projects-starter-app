@@ -81,7 +81,7 @@ h4 {
   margin-bottom: 0.75rem;
 }
 h1 {
-  font-size: 3rem;
+  font-size: 2.5rem;
 }
 h2 {
   font-size: 2rem;
@@ -94,11 +94,11 @@ h4 {
 }
 p {
   margin-bottom: 1.25rem;
-  color: var(--clr-grey-5);
+  color: var(--clr-grey-3);
 }
 @media screen and (min-width: 800px) {
   h1 {
-    font-size: 4rem;
+    font-size: 3rem;
   }
   h2 {
     font-size: 2.5rem;
